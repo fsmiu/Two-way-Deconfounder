@@ -27,6 +27,6 @@ python tune_toymodel.py --d_seed 11 --d_number 1000 --e_degree 1.0 --c_degree 1.
 python toymodel_eval.py --d_seed 11 --d_number 1000 --e_degree 1.0 --c_degree 1.0 --method TWD
 ```
 
-##Contact 
+## Contact 
 
 I will continue to update the code over the next few days. please contract 24121534R@connect.polyu.hk if you have any questions
